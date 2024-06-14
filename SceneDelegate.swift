@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Constraints
 //
-//  Created by Maÿarinn Tindómë on 6/14/24.
+//  Created by Karina Osadchaya on 6/14/24.
 //
 
 import UIKit
